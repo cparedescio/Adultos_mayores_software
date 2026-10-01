@@ -1,0 +1,151 @@
+﻿device,speaker,repetition,record_id,command_canonical,recognized_text,status,latency_ms
+POCO M5s,S4,1,2,higiene de manos,higiene de manos,SUCCESS,3369.024
+POCO M5s,S4,1,3,higiene de manos,higiene de manos,SUCCESS,3095.909
+POCO M5s,S4,1,4,higiene de manos,higiene de manos,SUCCESS,3443.791
+POCO M5s,S4,1,5,higiene de ojos,higiene de ojos,SUCCESS,3244.202
+POCO M5s,S4,1,6,higiene de ojos,higiene de ojos,SUCCESS,3029.907
+POCO M5s,S4,1,7,higiene de ojos,higiene de ojos,SUCCESS,2931.007
+POCO M5s,S4,1,8,corte de uñas,corte de uñas,SUCCESS,2879.54
+POCO M5s,S4,1,9,corte de uñas,corte de uñas,SUCCESS,2897.873
+POCO M5s,S4,1,10,corte de uñas,corte de uñas,SUCCESS,2665.459
+POCO M5s,S4,1,11,pulso arterial,pulso arterial,SUCCESS,3287.17
+POCO M5s,S4,1,12,pulso arterial,pulso arterial,SUCCESS,3331.543
+POCO M5s,S4,1,13,pulso arterial,pulso arterial,SUCCESS,3446.167
+POCO M5s,S4,1,14,frecuencia respiratoria,frecuencia respiratoria,SUCCESS,3856.415
+POCO M5s,S4,1,15,frecuencia respiratoria,frecuencia respiratoria,SUCCESS,3598.022
+POCO M5s,S4,1,16,frecuencia respiratoria,frecuencia respiratoria,SUCCESS,3927.933
+POCO M5s,S4,1,17,colostomía,colostomía,SUCCESS,2998.978
+POCO M5s,S4,1,18,colostomía,colostomía,SUCCESS,3330.353
+POCO M5s,S4,1,19,colostomía,colostomía,SUCCESS,3888.031
+POCO M5s,S4,1,20,urostomía,urostomía,SUCCESS,4213.196
+POCO M5s,S4,1,21,urostomía,urostomía,SUCCESS,3916.718
+POCO M5s,S4,1,22,urostomía,urostomía,SUCCESS,3015.076
+POCO M5s,S4,1,23,cómodo,cómodo,SUCCESS,3180.618
+POCO M5s,S4,1,24,cómodo,cómodo,SUCCESS,3681.717
+POCO M5s,S4,1,25,cómodo,cómodo,SUCCESS,3248.291
+POCO M5s,S4,1,26,de cama a silla de ruedas,de cama a silla de ruedas,SUCCESS,4427.032
+POCO M5s,S4,1,27,de cama a silla de ruedas,de cama a silla de ruedas,SUCCESS,3447.067
+POCO M5s,S4,1,28,de cama a silla de ruedas,de cama a silla de ruedas,SUCCESS,3865.708
+POCO M5s,S4,1,29,prótesis dental,prótesis dental,SUCCESS,3771.24
+POCO M5s,S4,1,30,prótesis dental,prótesis dental,SUCCESS,4061.279
+POCO M5s,S4,1,31,prótesis dental,prótesis dental,SUCCESS,4064.667
+POCO M8,S4,1,1,higiene de manos,higiene de manos,SUCCESS,3642.938
+POCO M8,S4,1,2,higiene de manos,higiene de manos,SUCCESS,3172.857
+POCO M8,S4,1,3,higiene de manos,higiene de manos,SUCCESS,3297.64
+POCO M8,S4,1,4,higiene de ojos,higiene de ojos,SUCCESS,4632.538
+POCO M8,S4,1,5,higiene de ojos,higiene de ojos,SUCCESS,3223.362
+POCO M8,S4,1,6,higiene de ojos,higiene de ojos,SUCCESS,3632.225
+POCO M8,S4,1,7,corte de uñas,corto corte de uñas,SUCCESS,4792.057
+POCO M8,S4,1,9,corte de uñas,corte de uñas,SUCCESS,2648.85
+POCO M8,S4,1,10,corte de uñas,corte de uñas,SUCCESS,3829.376
+POCO M8,S4,1,11,pulso arterial,pulso arterial,SUCCESS,3939.133
+POCO M8,S4,1,12,pulso arterial,pulso arterial,SUCCESS,4010.818
+POCO M8,S4,1,13,pulso arterial,pulso arterial,SUCCESS,3663.063
+POCO M8,S4,1,14,frecuencia respiratoria,frecuencia respiratoria,SUCCESS,3762.215
+POCO M8,S4,1,15,frecuencia respiratoria,frecuencia respiratoria,SUCCESS,3633.98
+POCO M8,S4,1,16,frecuencia respiratoria,frecuencia respiratoria,SUCCESS,4545.273
+POCO M8,S4,1,17,colostomía,colostomía,SUCCESS,3166.435
+POCO M8,S4,1,18,colostomía,colostomía,SUCCESS,3236.58
+POCO M8,S4,1,19,colostomía,colostomía,SUCCESS,2983.704
+POCO M8,S4,1,20,urostomía,urostomía,SUCCESS,2950.745
+POCO M8,S4,1,21,urostomía,urostomía,SUCCESS,3878.128
+POCO M8,S4,1,22,urostomía,urostomía,SUCCESS,3365.051
+POCO M8,S4,1,23,cómodo,cómodo,SUCCESS,3098.068
+POCO M8,S4,1,24,cómodo,cómodo,SUCCESS,3279.983
+POCO M8,S4,1,25,cómodo,cómodo,SUCCESS,3130.844
+POCO M8,S4,1,26,de cama a silla de ruedas,de cama a silla de ruedas,SUCCESS,4625.534
+POCO M8,S4,1,27,de cama a silla de ruedas,de cama a silla de ruedas,SUCCESS,4478.226
+POCO M8,S4,1,28,de cama a silla de ruedas,de cama a silla de ruedas,SUCCESS,4758.347
+POCO M8,S4,1,30,prótesis dental,prótesis dental,SUCCESS,3298.63
+POCO M8,S4,1,31,prótesis dental,prótesis dental,SUCCESS,3703.72
+POCO M8,S4,1,32,prótesis dental,prótesis dental,SUCCESS,3312.485
+POCO X3 Pro,S1,1,2,higiene de manos,higiene de manos,SUCCESS,3394.64
+POCO X3 Pro,S1,1,3,higiene de manos,higiene de manos,SUCCESS,3828.386
+POCO X3 Pro,S1,1,4,higiene de manos,higiene de manos,SUCCESS,3659.553
+POCO X3 Pro,S1,1,5,higiene de ojos,higiene de ojos,SUCCESS,3397.671
+POCO X3 Pro,S1,1,6,higiene de ojos,higiene de ojos,SUCCESS,3661.228
+POCO X3 Pro,S1,1,7,higiene de ojos,higiene de ojos,SUCCESS,4921.551
+POCO X3 Pro,S1,1,8,corte de uñas,corte de uñas,SUCCESS,4345.28
+POCO X3 Pro,S1,1,9,corte de uñas,corte de uñas,SUCCESS,3378.357
+POCO X3 Pro,S1,1,10,corte de uñas,corte de uñas,SUCCESS,3303.085
+POCO X3 Pro,S1,1,11,pulso arterial,pulso arterial,SUCCESS,8979.484
+POCO X3 Pro,S1,1,12,pulso arterial,pulso arterial,SUCCESS,3314.308
+POCO X3 Pro,S1,1,13,pulso arterial,pulso arterial,SUCCESS,3580.956
+POCO X3 Pro,S1,1,14,frecuencia respiratoria,frecuencia respiratoria,SUCCESS,5888.054
+POCO X3 Pro,S1,1,15,frecuencia respiratoria,frecuencia respiratoria,SUCCESS,4177.879
+POCO X3 Pro,S1,1,16,frecuencia respiratoria,frecuencia respiratoria,SUCCESS,3993.622
+POCO X3 Pro,S1,1,17,colostomía,colostomía,SUCCESS,4394.989
+POCO X3 Pro,S1,1,18,colostomía,colostomía,SUCCESS,3263.611
+POCO X3 Pro,S1,1,19,colostomía,colostomía,SUCCESS,3083.26
+POCO X3 Pro,S1,1,20,urostomía,urostomía,SUCCESS,3394.791
+POCO X3 Pro,S1,1,21,urostomía,urostomía,SUCCESS,3345.398
+POCO X3 Pro,S1,1,22,urostomía,urostomía,SUCCESS,3612.106
+POCO X3 Pro,S1,1,23,cómodo,cómodo,SUCCESS,3263.321
+POCO X3 Pro,S1,1,24,cómodo,cómodo,SUCCESS,3211.884
+POCO X3 Pro,S1,1,25,cómodo,cómodo,SUCCESS,3232.3
+POCO X3 Pro,S1,1,26,de cama a silla de ruedas,de cama a silla de ruedas,SUCCESS,3495.697
+POCO X3 Pro,S1,1,27,de cama a silla de ruedas,de cama a silla de ruedas,SUCCESS,3645.126
+POCO X3 Pro,S1,1,28,de cama a silla de ruedas,de cama a silla de ruedas,SUCCESS,3445.725
+POCO X3 Pro,S1,1,29,prótesis dental,prótesis dental,SUCCESS,3229.416
+POCO X3 Pro,S1,1,30,prótesis dental,prótesis dental,SUCCESS,3910.522
+POCO X3 Pro,S1,1,31,prótesis dental,prótesis dental,SUCCESS,3944.336
+Redmi Note 10,S4,1,1,higiene de manos,higiene de manos,SUCCESS,6232.044
+Redmi Note 10,S4,1,2,higiene de manos,higiene de manos,SUCCESS,5978.619
+Redmi Note 10,S4,1,3,higiene de manos,higiene de manos,SUCCESS,3760.014
+Redmi Note 10,S4,1,4,higiene de ojos,higiene de ojos,SUCCESS,3955.33
+Redmi Note 10,S4,1,5,higiene de ojos,higiene de ojos,SUCCESS,2853.062
+Redmi Note 10,S4,1,6,higiene de ojos,higiene de ojos,SUCCESS,2931.381
+Redmi Note 10,S4,1,7,corte de uñas,guantes desechables toalla corte de uñas,SUCCESS,5934.601
+Redmi Note 10,S4,1,8,corte de uñas,corte de uñas,SUCCESS,3128.921
+Redmi Note 10,S4,1,9,corte de uñas,corte de uñas,SUCCESS,3494.53
+Redmi Note 10,S4,1,10,pulso arterial,pulso arterial,SUCCESS,3995.148
+Redmi Note 10,S4,1,11,pulso arterial,pulso arterial,SUCCESS,3662.239
+Redmi Note 10,S4,1,12,pulso arterial,pulso arterial,SUCCESS,3446.434
+Redmi Note 10,S4,1,13,frecuencia respiratoria,frecuencia respiratoria,SUCCESS,3962.311
+Redmi Note 10,S4,1,14,frecuencia respiratoria,frecuencia respiratoria,SUCCESS,4212.089
+Redmi Note 10,S4,1,15,frecuencia respiratoria,frecuencia respiratoria,SUCCESS,4259.018
+Redmi Note 10,S4,1,16,colostomía,colostomía,SUCCESS,3227.669
+Redmi Note 10,S4,1,17,colostomía,colostomía,SUCCESS,3231.354
+Redmi Note 10,S4,1,18,colostomía,colostomía,SUCCESS,3232.712
+Redmi Note 10,S4,1,20,urostomía,purostomía,SUCCESS,2748.474
+Redmi Note 10,S4,1,21,urostomía,urostomía,SUCCESS,3745.987
+Redmi Note 10,S4,1,22,urostomía,furostomía,SUCCESS,3482.224
+Redmi Note 10,S4,1,23,cómodo,cómodo,SUCCESS,2551.743
+Redmi Note 10,S4,1,24,cómodo,cómodo,SUCCESS,3067.612
+Redmi Note 10,S4,1,25,cómodo,cómodo,SUCCESS,2851.135
+Redmi Note 10,S4,1,26,de cama a silla de ruedas,de cama silla de ruedas,SUCCESS,4043.716
+Redmi Note 10,S4,1,27,de cama a silla de ruedas,de cama silla de ruedas,SUCCESS,3656.799
+Redmi Note 10,S4,1,28,de cama a silla de ruedas,de cama silla de ruedas,SUCCESS,3445.77
+Redmi Note 10,S4,1,30,prótesis dental,prótesis dental,SUCCESS,3701.706
+Redmi Note 10,S4,1,31,prótesis dental,prótesis dental,SUCCESS,3425.4
+Redmi Note 10,S4,1,32,prótesis dental,prótesis dental,SUCCESS,3646.881
+Honor Magic 7,S4,1,1,higiene de manos,higiene de manos,SUCCESS,3007.112
+Honor Magic 7,S4,1,2,higiene de manos,higiene de manos,SUCCESS,2983.378
+Honor Magic 7,S4,1,3,higiene de manos,higiene de manos,SUCCESS,3189.939
+Honor Magic 7,S4,1,4,higiene de ojos,higiene de ojos,SUCCESS,3088.03
+Honor Magic 7,S4,1,5,higiene de ojos,higiene de ojos,SUCCESS,3229.38
+Honor Magic 7,S4,1,6,higiene de ojos,higiene de ojos,SUCCESS,3198.563
+Honor Magic 7,S4,1,7,corte de uñas,corte de uñas,SUCCESS,2947.289
+Honor Magic 7,S4,1,8,corte de uñas,corte de uñas,SUCCESS,3080.044
+Honor Magic 7,S4,1,9,corte de uñas,corte de uñas,SUCCESS,3280.838
+Honor Magic 7,S4,1,11,pulso arterial,pulso arterial,SUCCESS,3545.662
+Honor Magic 7,S4,1,12,pulso arterial,pulso arterial,SUCCESS,3413.319
+Honor Magic 7,S4,1,13,pulso arterial,pulso arterial,SUCCESS,4028.793
+Honor Magic 7,S4,1,14,frecuencia respiratoria,frecuencia respiratoria,SUCCESS,3615.005
+Honor Magic 7,S4,1,15,frecuencia respiratoria,frecuencia respiratoria,SUCCESS,3662.468
+Honor Magic 7,S4,1,16,frecuencia respiratoria,frecuencia respiratoria,SUCCESS,3697.556
+Honor Magic 7,S4,1,17,colostomía,colostomía,SUCCESS,3103.065
+Honor Magic 7,S4,1,18,colostomía,colostomía,SUCCESS,2915.291
+Honor Magic 7,S4,1,19,colostomía,colostomía,SUCCESS,2884.247
+Honor Magic 7,S4,1,20,urostomía,purostomía,SUCCESS,3196.419
+Honor Magic 7,S4,1,21,urostomía,furostomía,SUCCESS,2966.271
+Honor Magic 7,S4,1,22,urostomía,purostomía,SUCCESS,2897.606
+Honor Magic 7,S4,1,23,cómodo,cómodo,SUCCESS,2849.762
+Honor Magic 7,S4,1,24,cómodo,cómodo,SUCCESS,2917.48
+Honor Magic 7,S4,1,25,cómodo,cómodo,SUCCESS,3151.489
+Honor Magic 7,S4,1,26,de cama a silla de ruedas,decía de cama a silla de ruedas,SUCCESS,4907.959
+Honor Magic 7,S4,1,27,de cama a silla de ruedas,de cama a silla de ruedas,SUCCESS,3396.225
+Honor Magic 7,S4,1,28,de cama a silla de ruedas,de cama silla de ruedas,SUCCESS,3868.713
+Honor Magic 7,S4,1,29,prótesis dental,prótesis dental,SUCCESS,3230.225
+Honor Magic 7,S4,1,30,prótesis dental,prótesis dental,SUCCESS,3261.856
+Honor Magic 7,S4,1,31,prótesis dental,prótesis dental,SUCCESS,3131.149

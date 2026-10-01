@@ -1,0 +1,6 @@
+﻿test,repetitions,mean_ms,median_ms,min_ms,max_ms,p95_ms,valid_results
+T1_Consulta_manual,50,0.1284,0.1076,0.0988,0.6918,0.1931,50
+T2_Consulta_procedimiento,50,0.3397,0.3310,0.2990,0.5176,0.4058,50
+T3_Consulta_paso,50,0.2653,0.2594,0.2418,0.3581,0.3119,50
+T4_Consulta_join_manual_procedimiento,50,0.3217,0.3136,0.2991,0.4230,0.3576,50
+T5_Consulta_todos_procedimientos,50,2.8556,2.8323,2.6996,3.4003,3.0933,50

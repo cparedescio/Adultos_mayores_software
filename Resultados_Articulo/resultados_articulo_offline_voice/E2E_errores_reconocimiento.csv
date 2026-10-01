@@ -1,0 +1,6 @@
+﻿timestamp,device,speaker,repetition,record_id,recognized_text,command,status,latency_ms,device_real
+39:48.7,POCO M8,S4,1,8,porte de uñas,porte de uñas,NO_NAVIGATION,3116.062,POCO M8
+2026-09-22 21:53:58.388,POCO X3 Pro,S1,1,1,hijita de manos,hijita de manos,NO_NAVIGATION,4152.784,POCO X3 Pro
+02:07.3,Redmi Note 10,S4,1,19,purotomía,purotomía,NO_NAVIGATION,3291.275,Redmi Note 10
+02:59.3,Redmi Note 10,S4,1,29,prócesis dental,prócesis dental,NO_NAVIGATION,4843.125,Redmi Note 10
+05:43.3,Honor Magic 7,S4,1,10,por su alteriar,por su alteriar,NO_NAVIGATION,3518.448,Honor Magic 7
